@@ -1,0 +1,31 @@
+{
+	"name": "hoccacas",
+	"license": "MIT",
+	"publisher": "thiagoandreazza",
+	"description": "A VS Code theme for regular people.",
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"icon": "./icon.png",
+	"author": {
+		"name": "Thiago Andreazza",
+		"email": "thiago@qalaya.com.br"
+	},
+	"repository": {
+		"url": "https://github.com/qalaya/hoccacas.git",
+		"type": "git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hoccacas",
+				"id": "Hoccacas",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hoccacas-color-theme.json"
+			}
+		]
+	}
+}
