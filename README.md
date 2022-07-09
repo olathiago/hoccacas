@@ -7,7 +7,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for "Hoccacas"
 3. Click **Install** to install it.
-4. VS Code > Preferences > Color Theme > Hoccacas
+4. VS Code > Preferences > Color Theme > Hoccacas or Hoccacas B12
 
 ![Screenshot em Typescript](./assets/screen-one.png)
 
@@ -15,6 +15,10 @@
 
 ![Screenshot em CSS](./assets/screen-three.png)
 
-## Observations
+## Hoccacas B12
 
-I don't have much to say here. It's just a theme to fit my taste based on things that I consider as flaws in other themes around.
+Hoccacas B12 has some color saturation enhancements and minor sintax color changes.
+
+![B12 Screenshot em typescript](./assets/b12-screen-one.png)
+
+![B12 Screenshot em HTML](./assets/b12-screen-two.png)

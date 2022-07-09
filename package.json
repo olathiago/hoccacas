@@ -1,12 +1,13 @@
 {
 	"name": "hoccacas",
 	"license": "MIT",
+	"version": "0.1.1",
 	"publisher": "thiagoandreazza",
 	"description": "A VS Code theme for regular people.",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
-	"icon": "./icon.png",
+	"icon": "icon.png",
 	"author": {
 		"name": "Thiago Andreazza",
 		"email": "thiago@qalaya.com.br"
@@ -25,7 +26,19 @@
 				"id": "Hoccacas",
 				"uiTheme": "vs-dark",
 				"path": "./themes/hoccacas-color-theme.json"
+			},
+			{
+				"label": "Hoccacas B12",
+				"id": "Hoccacas B12",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hoccacas_b12-color-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "7870556a-18be-49e2-96fb-561f2c747c02",
+		"publisherDisplayName": "Thiago Andreazza",
+		"publisherId": "21579d03-47a4-4488-a4a3-dfa696f11761",
+		"isPreReleaseVersion": false
 	}
 }
