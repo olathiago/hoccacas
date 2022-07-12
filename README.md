@@ -7,7 +7,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`. (Ctrl+Shift+X)
 2. Search for "Hoccacas".
 3. Click **Install** to install it.
-4. VS Code > Preferences > Color Theme (Ctrl+K Ctrl+S) > Hoccacas Anemic or Hoccacas B12.
+4. VS Code > Preferences > Color Theme (Ctrl+K Ctrl+T) > Hoccacas Anemic or Hoccacas B12.
 
 ## Hoccacas Anemic
 
