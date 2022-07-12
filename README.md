@@ -17,7 +17,7 @@
 
 ## Hoccacas B12
 
-Hoccacas B12 has some color saturation enhancements and minor sintax color changes.
+Hoccacas B12 has some color saturation enhancements and minor color syntax changes.
 
 ![B12 Screenshot em typescript](./assets/b12-screen-one.png)
 
