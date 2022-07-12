@@ -4,10 +4,14 @@
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for "Hoccacas"
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`. (Ctrl+Shift+X)
+2. Search for "Hoccacas".
 3. Click **Install** to install it.
-4. VS Code > Preferences > Color Theme > Hoccacas or Hoccacas B12
+4. VS Code > Preferences > Color Theme (Ctrl+K Ctrl+S) > Hoccacas Anemic or Hoccacas B12.
+
+## Hoccacas Anemic
+
+This is the standard version of Hoccacas. Colors are less saturated here and HTML has less color variations.
 
 ![Screenshot em Typescript](./assets/screen-one.png)
 
