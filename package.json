@@ -1,7 +1,7 @@
 {
 	"name": "hoccacas",
 	"license": "MIT",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"publisher": "thiagoandreazza",
 	"description": "A VS Code theme for regular people.",
 	"engines": {
@@ -22,16 +22,16 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Hoccacas Anemic",
-				"id": "Hoccacas Anemic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/hoccacas-color-theme.json"
-			},
-			{
 				"label": "Hoccacas B12",
 				"id": "Hoccacas B12",
 				"uiTheme": "vs-dark",
 				"path": "./themes/hoccacas_b12-color-theme.json"
+			},
+			{
+				"label": "Hoccacas Pale",
+				"id": "Hoccacas Pale",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hoccacas-color-theme.json"
 			}
 		]
 	},
