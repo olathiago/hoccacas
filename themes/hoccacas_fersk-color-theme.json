@@ -423,9 +423,6 @@
     {
       "scope": [
         "entity.other.attribute-name.class",
-        "meta.field.declaration entity.name.function",
-        "meta.function-call",
-        "meta.definition.method entity.name.function",
         "source.css meta.selector.css",
         "source.css",
         "entity.name.tag.open.jsx",
@@ -450,7 +447,10 @@
       "scope": [
         "meta.objectliteral",
         "support.type.primitive",
-        "variable.language.this"
+        "variable.language.this",
+        "meta.member.access meta.function-call",
+        "meta.class support.type.primitive",
+        "support.variable.property"
       ],
       "settings": {
         "foreground": "#67b3e6"
@@ -470,7 +470,6 @@
       "scope": [
         "entity.other.inherited-class",
         "meta.class meta.type.annotation",
-        "meta.class support.type.primitive",
         "meta.interface support.type.primitive",
         "meta.interface entity.name.type.interface",
         "meta.type.annotation",
@@ -484,14 +483,16 @@
         "keyword.operator",
         "entity.other.attribute-name",
         "entity.other.attribute-name.id",
-        "entity.other.attribute-name"
+        "entity.other.attribute-name",
+        "keyword",
+        "storage.type.property"
       ],
       "settings": { "foreground": "#ff76ad" }
     },
     {
       "scope": [
         "entity.name",
-        "keyword",
+        "entity.name.function",
         "modifier",
         "storage",
         "entity.name.tag",
@@ -502,7 +503,11 @@
         "meta.object-literal.key",
         "support.type.property-name.css",
         "support.type",
-        "support.class.component"
+        "support.class.component",
+        "keyword.control.from",
+        "keyword.control.import",
+        "keyword.control.conditional",
+        "keyword.control.loop"
       ],
       "settings": { "foreground": "#ae88fa" }
     },
@@ -511,11 +516,10 @@
         "constant.numeric",
         "constant.language",
         "constant.character.escape",
-
         "storage.type"
       ],
       "settings": {
-        "foreground": "#7fc9d6"
+        "foreground": "#7fd3d6"
       }
     },
     {
