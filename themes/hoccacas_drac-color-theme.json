@@ -485,16 +485,16 @@
         "entity.other.attribute-name.id",
         "entity.other.attribute-name",
         "keyword",
-        "storage.type.property"
+        "storage.type.property",
+        "storage"
       ],
-      "settings": { "foreground": "#ff76ad" }
+      "settings": { "foreground": "#e77fd6" }
     },
     {
       "scope": [
         "entity.name",
         "entity.name.function",
         "modifier",
-        "storage",
         "entity.name.tag",
         "punctuation.definition.tag.begin",
         "punctuation.definition.tag.end",

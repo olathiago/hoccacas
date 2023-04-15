@@ -1,7 +1,7 @@
 {
   "name": "hoccacas",
   "license": "MIT",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "thiagoandreazza",
   "description": "A VS Code theme for regular people.",
   "engines": {
@@ -13,7 +13,7 @@
     "email": "thiago@qalaya.com.br"
   },
   "repository": {
-    "url": "https://github.com/qalaya/hoccacas.git",
+    "url": "https://github.com/olathiago/hoccacas.git",
     "type": "git"
   },
   "categories": [
@@ -21,6 +21,12 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Hoccacas Drac",
+        "id": "Hoccacas Drac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hoccacas_drac-color-theme.json"
+      },
       {
         "label": "Hoccacas Fersk",
         "id": "Hoccacas Fersk",

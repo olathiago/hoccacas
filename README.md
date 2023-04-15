@@ -7,15 +7,25 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`. (Ctrl+Shift+X)
 2. Search for "Hoccacas".
 3. Click **Install** to install it.
-4. VS Code > Preferences > Color Theme (Ctrl+K Ctrl+T) > Hoccacas Fersk, Hoccacas B12 or Hoccacas Pale.
+4. VS Code > Preferences > Color Theme (Ctrl+K Ctrl+T) > Hoccacas Drac, Hoccacas Fersk, Hoccacas B12 or Hoccacas Pale.
+
+## Hoccacas Drac
+
+This is the new standard version of Hoccacas (16/04/2023). Colors are following new syntax colors because I got bored of B12 version and Fersk version.
+
+![Drac Screenshot em typescript](./assets/hoccacas-drac_2.png)
+
+![Drac Screenshot em HTML](./assets/hoccacas-drac_3.png)
+
+![Drac Screenshot em CSS](./assets/hoccacas-drac_1.png)
 
 ## Hoccacas Fersk
 
-This is the new standard version of Hoccacas (09/04/2023). Colors are following a new color syntax because I got bored of some colors on B12 version.
+This is a new version of Hoccacas (09/04/2023). Colors are following new syntax colors because I got bored. It's funny to notice that I got bored of it too (16/04/2023) and beacuse of that managed to create the Drac version. xD
 
-![B12 Screenshot em typescript](./assets/hoccacas-fersk_1.png)
+![Fersk Screenshot em typescript](./assets/hoccacas-fersk_1.png)
 
-![B12 Screenshot em HTML](./assets/hoccacas-fersk_2.png)
+![Fersk Screenshot em HTML](./assets/hoccacas-fersk_2.png)
 
 ## Hoccacas B12
 
@@ -29,9 +39,9 @@ This is the classic version of Hoccacas. Colors are more vibrant than Pale versi
 
 It is a pale version of Hoccacas B12. It has less vibrant colors and less syntax color variations.
 
-![Screenshot em Typescript](./assets/screen-one.png)
+![Pale em Typescript](./assets/screen-one.png)
 
-![Screenshot em HTML](./assets/screen-two.png)
+![Pale em HTML](./assets/screen-two.png)
 
-![Screenshot em CSS](./assets/screen-three.png)
+![Pale em CSS](./assets/screen-three.png)
 
