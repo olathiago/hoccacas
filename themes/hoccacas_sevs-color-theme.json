@@ -434,7 +434,7 @@
         "meta.type.annotation entity.name.type",
         "storage.type"
       ],
-      "settings": { "foreground": "#67b3e6" }
+      "settings": { "foreground": "#678fe6" }
     },
     {
       "scope": [
