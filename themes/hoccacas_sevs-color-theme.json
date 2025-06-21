@@ -432,6 +432,8 @@
         "entity.name.type.go",
         "meta.class entity.name.type.module",
         "meta.type.annotation entity.name.type",
+        "punctuation.other.comma",
+        "punctuation.separator.comma",
         "storage.type"
       ],
       "settings": { "foreground": "#678fe6" }
@@ -488,6 +490,23 @@
     },
     {
       "scope": [
+        "constant.character.escape",
+        "entity.name.tag.css",
+        "meta.brace.round",
+        "meta.tag.other.unrecognized.html.derivative",
+        "punctuation.definition.entity.html",
+        "punctuation.definition.block",
+        "punctuation.definition.parameters",
+        "punctuation.accessor",
+        "source.css",
+        "source.css meta.selector.css",
+        "support.module",
+        "support.type.property-name.css"
+      ],
+      "settings": { "foreground": "#94B8FF" }
+    },
+    {
+      "scope": [
         "entity.name",
         "entity.name.tag.close.jsx",
         "entity.name.tag.open.jsx",
@@ -501,13 +520,12 @@
         "meta.definition.method entity.name.function",
         "punctuation.definition.tag.begin",
         "punctuation.definition.tag.end",
-        "source.css meta.selector.css",
-        "source.css",
         "string.template",
         "support.class.component",
         "support.type",
         "support.class.component.open.jsx",
-        "support.class.component.close.jsx"
+        "support.class.component.close.jsx",
+        "variable.interpolation"
       ],
       "settings": {
         "foreground": "#9787ff"
