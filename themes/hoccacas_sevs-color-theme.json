@@ -438,11 +438,13 @@
     },
     {
       "scope": [
+        "cket.curly.scss",
         "constant.numeric",
         "constant.language",
         "constant.character.escape",
         "meta.property-value.scss",
         "meta.property-list.scss",
+        "source.css.scss",
         "storage.type.ts",
         "storage.type.tsx",
         "storage.type.function.tsx",
@@ -454,15 +456,24 @@
     },
     {
       "scope": [
+        "variable.other",
+        "variable.other.property",
+        "variable.parameter",
+        "meta.definition.variable",
+        "variable.object.property",
         "entity.name.type.package.go",
         "meta.function.gradient.css",
         "meta.property-value.scss",
         "meta.property-list.scss",
-        "source.css.scss",
         "meta.jsx.children"
       ],
+      "settings": { "foreground": "#ffffff" }
+    },
+    {
+      "scope": ["meta.class entity.name.type.class"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffff",
+        "fontStyle": "underline"
       }
     },
     {
@@ -492,6 +503,7 @@
         "punctuation.definition.tag.end",
         "source.css meta.selector.css",
         "source.css",
+        "string.template",
         "support.class.component",
         "support.type",
         "support.class.component.open.jsx",
