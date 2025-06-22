@@ -430,9 +430,11 @@
     {
       "scope": [
         "entity.name.type.go",
+        "keyword.interface.go",
         "meta.class entity.name.type.module",
         "meta.type.annotation entity.name.type",
         "punctuation.other.comma",
+        "punctuation.separator.array",
         "punctuation.separator.comma",
         "storage.type"
       ],
